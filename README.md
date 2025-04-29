@@ -1,12 +1,12 @@
 # 📘 Sample Flashbots Sniper & Deployment CLI
 
-This project provides a full boilerplate for deploying and managing a **Uniswap V2 Tax Token** (MyToken) with CLI-based automation, including Flashbots sniping and parameter management.
+This project provides a full boilerplate for deploying and managing a **Uniswap V2 Tax Token** with CLI-based automation, including Flashbots sniping and parameter management.
 
 ---
 
 ## 🚀 Features
 
-- Deploy a token contract (`MyToken`) using Hardhat  
+- Deploy a token contract using Hardhat  
 - Manually add liquidity via Uniswap UI  
 - Run a Flashbots bundle to:  
   - Enable trading  
@@ -44,8 +44,8 @@ This project provides a full boilerplate for deploying and managing a **Uniswap 
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/yourname/mytoken-cli
-cd mytoken-cli
+git clone https://github.com/yourname/ERC20-Token-Launcher-CLI
+cd ERC20-Token-Launcher-CLI
 npm install
 ```
 
